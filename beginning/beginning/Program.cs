@@ -11,6 +11,7 @@ namespace beginning
         static void Main(string[] args)
         {
             Console.Write("hello world!");
+            Console.Write("ok");
         }
     }
 }
