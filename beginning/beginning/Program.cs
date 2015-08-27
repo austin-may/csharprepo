@@ -12,6 +12,7 @@ namespace beginning
         {
             Console.Write("hello world!");
             Console.Write("ok");
+            Console.WriteLine("hey");
         }
     }
 }
